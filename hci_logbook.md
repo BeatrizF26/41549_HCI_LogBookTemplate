@@ -6,17 +6,20 @@ Work carried out by:
 -->
 # *HCI Project Logbook*
 
-**Title of the project**: [Title goes here]
+**Title of the project**: Sistema de gestão de entidades relacionadas ao ensino de condução
 **Team:**
-- Student 1: [Name and Number] 
-- Student 2; [Name and Number]
-- Student 3: [Name and Number]
+- Student 1: Beatriz Francisco 118638 
+- Student 2; Pedro Marques 118895
+- Student 3: Tiago Coelho 118745
 
 ---
 # [A. Stage 0 - Planning and Problem Identification](stage0_planning/a_stage_0_planning_problem_identification.md)
  > 	This stage corresponds to week 1. Describe the overall rationale that leads to choosing the project idea
 
 <!-- For this stage you will need to read this:-->
+A escolha da nossa ideia surgiu de forma a facilitar todo o processo de gestão de entidades relacionadas ao ensino de condução, nomeadamente, escolas de condução, alunos e instrutores, com o objetivo de contribuir para uma maior interação entre alunos e instrutores. Além disso, outro aspeto que nos levou à escolha deste tema foi o facto de facilitar as tarefas diárias do instrutor, nomeadamente, a preparação e avaliação das aulas dos alunos e ter acesso à lista de alunos a que dá aulas.
+
+Assim, o nosso objetivo é desenvolver uma plataforma com um conjunto de funcionalidades restritas a cada entidade, ou seja, que podem variar entre marcar aulas e inscrever alunos, no caso de serem escolas de condução, e ter acesso a quantas aulas foram dadas, no caso de serem alunos.
 
 
 # [B. Stage 1 - Context Definition](stage1_context/b_stage_1_context_definition.md)
