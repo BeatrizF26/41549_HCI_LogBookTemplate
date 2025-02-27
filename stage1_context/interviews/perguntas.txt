@@ -1,0 +1,14 @@
+Alunos:
+Que funcionalidade achavas útil para melhorar o teu processo de aprendizagem?
+(Que não esteja na aplicação ainda)
+Que funcionalidade achas desnecessária?
+
+Instrutores:
+É possível visualizar e gerenciar sua  agenda de aulas na plataforma?
+A plataforma permite acompanhar o progresso individual dos alunos?
+É possível enviar feedback e avaliações sobre as aulas diretamente pelo sistema?
+A plataforma oferece algum recurso para comunicação direta com os alunos e a secretaria da escola?
+
+Escolas:
+Como é o processo de registo de um novo aluno na escola?
+A plataforma permite marcar exames com um centro de exames?
