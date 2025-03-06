@@ -1,7 +1,5 @@
 # Informal User Interview Notes 
 
-> 	The questions included in this file are just possibilities. The questions you do should be adapted to your case, where needed.
-
 ## Interview Details 
 - **Date:** 2025-02-27
 - **Interviewer:** Tiago Coelho
@@ -11,43 +9,42 @@
 --- 
 ## Task Overview 
 
- **What task is the user trying to accomplish?** 
+**Normalmente usa uma plataforma semelhante na sua escola de condução? Se não utiliza, consideraria útil?**
+
+**Qual o papel do utilizador na plataforma e como normalmente a utiliza?** 
 [Describe the task in the user’s words] 
 
-**What are the main pain points or difficulties they experience?** 
+**Quais os pontos positivos e as maiores dificuldades/desvantagens em usar a plataforma?** 
 - [Challenge 1] 
 - [Challenge 2] 
 - [Challenge 3] 
 
-**Are there any workarounds or strategies they currently use?** 
+**Utiliza alguma alternativa para combater essas dificuldades que enfrenta quando utiliza a aplicação?** 
 - [List of workarounds] 
 
 ---- 
 ## Tools & Environment 
-**What tools or methods does the user currently rely on?** 
+**Como é que normalmente o user utiliza a aplicação? Quais são as principais funcionalidades que utiliza?** 
 - [Tool 1] 
 - [Tool 2] 
 - [Any manual processes] 
 
-**Are there any frustrations or limitations with these tools?** 
+**Embora utilize normalmente essas funcionalidades, existe algum aspeto que desejaria melhorar?** 
 - [Limitation 1] 
 - [Limitation 2] 
 
-**What features do they wish these tools had?** 
+**Que melhorias consideraria mais importante implementar na plataforma?** 
 - [Feature 1] 
 - [Feature 2] 
 --- 
 ## Expectations for a Novel Approach 
 
-**What would an ideal solution look like for them?** 
+**Com que aspetos implementados é que consideraria que a plataforma é ideal para as tarefas que tem de executar?** 
 - [Key expectations] 
 
-**What concerns or hesitations do they have about new approaches?** 
+**Existiria algum receio em utilizar uma plataforma do género?** 
 - [Concern 1] 
 - [Concern 2] 
-
-**How do they measure success for completing the task efficiently?** 
-- [Efficiency metric or criteria] 
 
 --- 
 ## Additional Observations 
