@@ -3,10 +3,10 @@
 > 	The questions included in this file are just possibilities. The questions you do should be adapted to your case, where needed.
 
 ## Interview Details 
-- **Date:** [YYYY-MM-DD] 
-- **Interviewer:** [Your Name] 
-- **Participant:** [Optional: Anonymous or Role] 
-- **Context:** [Where and how the interview was conducted] 
+- **Date:** 2025-02-27
+- **Interviewer:** Tiago Coelho
+- **Participant:** Colega: Vasco
+- **Context:** No contexto de uma aula prática
 
 --- 
 ## Task Overview 
