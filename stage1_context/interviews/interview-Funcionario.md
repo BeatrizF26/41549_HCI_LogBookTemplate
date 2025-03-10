@@ -3,64 +3,62 @@
 ## Interview Details 
 - **Date:** 2025-02-28
 - **Interviewer:** Beatriz Francisco
-- **Participant:** Funcionário da Secretaria da Escola de Condução 
-- **Context:** Na escola de condução
+- **Participant:** Employee from the Driving School's Administrative Office
+- **Context:** At the driving school
 - --- 
 ## Task Overview 
 
-**Normalmente usa uma plataforma semelhante na sua escola de condução? Se não utiliza, consideraria útil?**
+**Do you usually use a similar platform at your driving school? If not, would you consider it useful?**
 
-Sim, normalmente é utilizada uma plataforma para registar alunos, ver o perfil de cada um juntamente com os seus dados, o estado do pagamento da carta de condução e o número de aulas que cada um tem.
+Yes, a platform is usually used to register students, view their profiles along with their data, check their payment status for the driver's license and track the number of lessons each students has had.
 
-**Qual o papel do utilizador na plataforma e como normalmente a utiliza?** 
+**What is the user's role on the platform and how do they typically use it?**
 
-A plataforma é utilizada de modo a facilitar todo o processo burocrático que uma escola de condução tem de realizar. Assim, qualquer funcionário que trabalhe na secretaria da escola recorre à plataforma para registar alunos, marcar aulas e exames, tanto de código como de condução.
+The platform is used to facilitate all the administrative processes that a driving school needs to manage. Thus, any staff member working in the administrative office uses the platform to register students, schedule lessons and exams, both theory and practical.
 
-Relativamente ao registo de alunos têm de ser preenchidos vários dados como nome, contacto telefónico, email, morada e atestado médico. Se todas as informações pedidas forem devidamente preenchidas, o pedido para registar um novo aluno é aceite e seguirá para o IMT.
+For student registration, various detaails must be filled out, sucha as name, contact information, email, address and medical certificate. If all requires information is provided correctly, the request to register a new student is accepted and sent to the IMT.
 
-Quanto a marcar aulas para cada aluno, a plataforma consegue marcá-las, porém, como os instrutores não têm acesso a esse calendário, a escola opta por marcar as aulas de cada instrutor numa agenda, de modo a evitar ter de fazer o registo das aulas duas vezes (uma na plataforma e outra na agenda).
+Regarding scheduling lessons for each student, the platform can schedule them. However, since instructors do not have access to the calendar, the school opts to schedule each instructor's lessons on a separate agenda, to avoid having to register the lessons twice (once on the platform and once in the agenda).
 
-Para ter acesso ao estado de pagamento de cada aluno, a própria secretaria tem de inserir manualmente o valor que o aluno já pagou, visto que a plataforma não tem a funcionalidade de realizar pagamentos e não saber quando os pagamentos são feitos e a sua quantidade.
+To access each student's payment status, the administrative office has to manually enter the amount paid by the student since the platform does not have the functionality to process payments or track when and how much has been paid.
 
+**What are the positive aspects and the biggest challenges/disadvantages of using this platform?** 
 
-**Quais os pontos positivos e as maiores dificuldades/desvantagens em usar a plataforma?** 
-
-- Um dos pontos positivos da plataforma é o facto de se conseguir registar alunos e mandar o pedido de registo para o IMT de forma rápida e fácil, uma vez que basta cumprir os requisitos colocados na plataforma para o pedido ser considerado como válido.
+- One positive aspect of the platform is that it allows for quick and easy student registration and submission of the registration request to the IMT, as long as the platform's requirements are met.
   
-- Outro ponto positivo é ser possível marcar exames de código e condução pela plataforma, tendo já em conta quais são as datas disponibilizadas para a escola marcar esses exames.
+- Another positive aspect is that it is possible to schedule theory andd practical exams through the platform, taking into account the available dates for the school to schedule those exams.
 
-- Porém, como ponto negativo é o facto de terem a funcionalidade de marcar aulas e não conseguirem usufruir dela, uma vez que os instrutores não conseguem aceder a essa área da plataforma.
+- A negative aspect is that although the platform has the functionality to schedule lessos, they cannot fully benefit from it because instructor do not have access to that area of the platform.
 
-- Além disso, ter de inserir manualmente o valor das transferências acaba por ser um processo demorado.
+- Additionally, having to manually enter the payment amounts makes the process time-consuming.
+  
+**Do you use any alternative methods to overcome the difficulties you face when using the application?** 
 
-**Utiliza alguma alternativa para combater essas dificuldades que enfrenta quando utiliza a aplicação?** 
+To avoid entering the transfer amount manually every time, sometimes the staff waits until the payments reach a certain value and then registers them in the platform all at once.
 
-De modo a não ter de colocar manualmente sempre o valor da transferência, por vezes, deixa-se os pagamentos atingir um determinado valor e só depois são registados na plataforma.
-
-Além disso, como não é vantajoso utilizar a funcionalidade do calendário na plataforma, a alternativa que têm é recorrer a uma agenda que os instrutores podem facilmente consultar.
+Also, since it is not advantageous to use the calendar functionality in the platform, the alternative is to use a separate agenda that instructors can easily consult.
 
 ---- 
 ## Tools & Environment 
-**Quais são as principais funcionalidades que utiliza?** 
+**What are the main features you use?** 
 
-Na secretaria, as funções mais utilizadas são o registo de novos alunos e a marcação de aulas. Contudo, todas as outras funcionalidades devem estar funcionais para quando for necessário usar, não haver nenhum problema.
+In the administrative office, the most commonly used features are student registration and scheduling lessons. However, all other features must be functional to ensure there are no issues when they need to be used.
 
-**Embora utilize normalmente essas funcionalidades, existe algum aspeto que desejaria melhorar?** 
+**Although you normally use these features, is there anything you would like to improve?** 
 
-Um dos aspetos a melhorar seria implementar um sistema de pagamento de modo a garantir que o valor que o aluno já pagou aparecesse automaticamente no seu perfil e não seja necessário inserir manualmente.
+One aspect that could be improved would be to implement a payment system so that the amount the student has paid appears automatically on their profile, eliminating the need for manual entry.
 
+**What improvements do you consider most important to implement on the platform?** 
 
-**Que melhorias consideraria mais importante implementar na plataforma?** 
-
-A principal melhoria que se deve implementar na plataforma é o facto de o instrutor conseguir ter acesso ao seu calendário de aulas através da plataforma, de modo, a não ter de tirar uma foto todos os dias à sua agenda. Além disso, caso houvesse alguma alteração ao longo do dia às aulas que tem de dar, o instrutor seria notificado assim que se fizesse uma alteração no calendário, em vez de a secretaria ter de lhe ligar.
+The main improvement to implement on the platform would be allowing instructors to access their lesson calendar through the platform, so they don’t have to take a photo of their agenda every day. Additionally, if there are any changes to the lessons during the day, the instructor should be notified as soon as an update is made in the calendar, instead of the administrative office having to call them.
 
 --- 
 ## Expectations for a Novel Approach 
 
-**Com que aspetos implementados é que consideraria que a plataforma é ideal para as tarefas que tem de executar?** 
+**With which features implemented would you consider the platform ideal for the tasks you need to perform?** 
 
-Assim, apenas se poderia considerar a plataforma como ideal quando as funcionalidades de pagamento e a marcação de aulas no calendário estivesse devidamente implementada.
+The platform could only be considered ideal when the payment functionality and the scheduling of lessons in the calendar are properly implemented.
 
-**Existiria algum receio em utilizar uma plataforma do género?** 
+**Would you have any concerns about using a platform like this?** 
 
-Não existiria nenhum receio, aliás, até seria uma forma de facilitar as tarefas que têm de realizar.
+There would be no concerns, in fact, it would be a way to simplify the tasks that need to be done.

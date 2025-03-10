@@ -7,7 +7,7 @@ Nielsen Norman Group available at: https://media.nngroup.com/media/articles/atta
 **Product**: Viriato - Escola de Condução
 
 
-Severity Scale adopted: [[severity_scale_heuristic_evaluation]]
+Severity Scale adopted: [severity_scale_heuristic_evaluation](severity_scale_heuristic_evaluation)
 Summary of each usability heuristic: [here](https://media.nngroup.com/media/articles/attachments/Heuristic_Summary1-compressed.pdf)
 
 # 1 Visibility of System Status

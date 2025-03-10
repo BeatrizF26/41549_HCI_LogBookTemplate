@@ -3,60 +3,60 @@
 ## Interview Details 
 - **Date:** 2025-02-27
 - **Interviewer:** Beatriz Francisco
-- **Participant:** Aluno que já frequentou uma escola de condução
-- **Context:** Aula de IHC
+- **Participant:** A student who has attended a driving school
+- **Context:** HCI Class
 - --- 
 ## Task Overview 
 
-**Normalmente usa uma plataforma semelhante na sua escola de condução? Se não utiliza, consideraria útil?**
+**Do you usually use a similar platform at your driving school? If not, would you consider it useful?**
 
-Sim, existia uma plataforma mas num registo ligeiramente diferente do proposto.
+Yes, there was a platform, but it was slightly different from the proposed one.
 
-**Qual o papel do utilizador na plataforma e como normalmente a utiliza?** 
+**What is the user's role on the platform and how do they typically use it?** 
 
-O utilizador usa a plataforma como um aluno, tendo acesso a conteúdos específicos, nomeadamente, aulas teóricas e vídeos que auxiliam esse processo de aprendizagem.
+The user uses the platform as a student, having access to specific content, such as theoretical lessons and videos that help in the learning process.
 
-**Quais os pontos positivos e as maiores dificuldades/desvantagens em usar a plataforma?** 
+**What are the positive aspects and biggest challenges/disadvantages of using the platform?** 
 
-- O principal ponto positivo da plataforma é permiter o ensino à distância, isto é, permitir que alguns conteúdos possam ser aprendidos sem ser necessário dirigir-se à escola para frequentar uma aula onde seriam lecionados esses mesmos conteúdos.
+- The main positive aspect of the platform is that it enables distance learning, allowing students to learn certain content without needing to go to the school for a class where the same content would be taught.
 
-- A maior desvantagem da plataforma é o facto de ela ser útil apenas para a componente teórica da carta de condução, visto que após ser realizado o exame de código, deixa-se de utilizar a plataforma por já não ser preciso ver os vídeos das aulas teóricas.
+- The biggest disadvantage of the platform is that it is only useful for the theoretical component of the driver's license, as once the theory exam is completed, the platform is no longer used since there is no need to watch the theoretical lesson videos anymore.
 
-- Além disso, embora as aulas teóricas possam ser vistas à distãncia, não existe nenhum local apropriado na plataforma onde o utilizador possa tirar as suas dúvidas. 
+- Additionally, although the theoretical lessons can be watched remotely, there is no appropriate place on the platform where the user can ask questions.
 
-**Utiliza alguma alternativa para combater essas dificuldades que enfrenta quando utiliza a aplicação?** 
+**Do you use any alternative methods to overcome the difficulties you face when using the application?** 
 
-Como a maior dificuldade não é uma característica da plataforma, mas sim a forma como ela foi pensada, não existe uma alternativa na própria plataforma para combater isso. Assim, a única alternativa é recorrer ao processo de se dirigir à escola sempre que precisa de marcar aulas de condução ou queira executar outros serviços.
+Since the biggest issue isn't a limitation of the platform but rather how it was designed, there is no alternative within the platform to address it. Therefore, the only alternative is to go to the school whenever the student needs to schedule driving lessons or requires other services.
 
 ---- 
 ## Tools & Environment 
-**Quais são as principais funcionalidades que utiliza?** 
+**What are the main features you use?** 
 
-Como a plataforma não tem muitas funcionalidades disponíveis além de ser assistir aulas de certos conteúdos, essa acaba por ser a principal funcionalidade que o utilizador usa.
+Since the platform doesn't offer many features other than watching lessons on specific content, that ends up being the primary feature the user utilizes.
 
-**Embora utilize normalmente essas funcionalidades, existe algum aspeto que desejaria melhorar?** 
+**Although you normally use these features, is there anything you would like to improve?** 
 
-Não, na sua opinião, não existe como melhorar muito mais essa funcionalidade.
+No, in their opinion, there isn't much more to improve about this feature.
 
-**Que melhorias consideraria mais importante implementar na plataforma?** 
+**What improvements would you consider most important to implement on the platform?** 
 
-- A principal melhoria seria, sem dúvida, implementar algo que tornasse a plataforma mais útil e não ser apenas utilizada na componente teórica da carta de condução.
+- The main improvement would definitely be to make the platform more useful, not just for the theoretical component of the driver's license.
 
-- Assim, algumas melhorias que são interessantes implementar seriam, por exemplo, existir um chat onde cada aluno pudesse tirar as suas dúvidas. De modo atambém recorrer à plataforma durante a parte prática da carta de condução, também seria interessante aceder a um calendário com as aulas de condução marcadas.
+- Some interesting improvements could be adding a chat feature where students can ask their questions. Additionally, incorporating the platform into the practical driving lessons would be useful. A calendar showing scheduled driving lessons could also be implemented.
 
-- No caso de também se utilizar a plataforma para esses efeitos, o aluno podia ter acesso a algum feedback sobre o seu desempenho ao longo das aulas de conduçãoe e, com isso, poder ver o progresso que ia tendo ao longo das aulas.
+- If the platform were to be used for these purposes, students could have access to feedback on their performance during the driving lessons, helping them track their progress over time.
 
-- Além disso, uma melhoria a ser feita era ter acesso ao registo de contas da carta de condução, por exemplo, quanto falta pagar ou quanto já pagou. A plataforma também poderia implementar uma forma de ser possível fazer pagamentos através dela.
+- Furthermore, an improvement would be having access to the payment record for the driving license, such as how much is left to pay or what has already been paid. The platform could also implement a payment system.
 
 --- 
 ## Expectations for a Novel Approach 
 
-**Com que aspetos implementados é que consideraria que a plataforma é ideal para as tarefas que tem de executar?** 
+**With which features implemented would you consider the platform ideal for the tasks you need to perform?** 
 
-Das melhorias referidas anteriormente, as mais importantes para considerar que a plataforma é ideal seria implementar o calendário com as aulas de condução marcadas e o chat para tirar dúvidas.
+Of the improvements mentioned earlier, the most important features to consider the platform ideal would be implementing the calendar with scheduled driving lessons and the chat for asking questions.
 
-As outras melhorias também seriam importantes, mas são aspetos que, na sua opinião, não são tão urgentes como os outros.
+Other improvements would also be important, but in their opinion, they are not as urgent as the others.
 
-**Existiria algum receio em utilizar uma plataforma do género?** 
+**Would you have any concerns about using a platform like this?** 
 
-Não existiria nenhum receio, aliás, até gostaria de usar uma plataforma semelhante de modo a facilitar todo o processo de tirar a carta de condução.
+There would be no concerns; in fact, they would like to use a similar platform to facilitate the entire process of obtaining a driver's license.
