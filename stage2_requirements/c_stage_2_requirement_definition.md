@@ -96,9 +96,51 @@ Later in the afternoon, João, messaged Gracinda asking if she could help resche
 
 ## C.1. Functional requirements
 
+### 1. Schedules
+-   The system must allow show the right schedule for each student
+-   Allow students to book, reschedule, and cancel theoretical and practical lessons
+-   The user must not be allowed to schedule classes that are already full 
+
+### 2. Chat
+-   The system must keep the chat between the student and the instructor
+-   Enable the secretary and instructors to send notifications to students
+
+### 3. Payments
+-   Display pending payments for each student
+-   Allow students to complete payments through the system
+-   Allow the secretary to manage and confirm student payments
+
+### 4. Exams
+-   Allow students to request a theoretical or practical exam
+-   The system must send a notification once the exam is scheduled
+
+### 5. Progress
+-   Allow instructors to register and update student progress after each lesson
+-   Provide students with access to their performance history and instructor feedback
+
+### 6. Student and Instructor management
+-   Allow the secretary to register new students and instructors
+-   Store student information, including progress, payment status, and exam eligibility
+
+
 
 ## C.2. Non-functional requirements
 
+### 1. Usability and accessability
+-   Have a user-friendly interface that is intuitive for students, instructors, and secretaries
+-   The user interface must be visually appealing
+-   Be accessible on both desktop and mobile devices
+
+### 2. Performance and reliability
+-   Ensure a fast response time
+-   Support multiple users accessing the system simultaneously
+-   Maintain minimal downtime
+
+### 3. Security and privacy
+-   Protect user data with proper authentication
+-   Ensure that only authorized users can access personal and payment information
+
+ 
 
 ---
 [Back to main Logbook Page](hci_logbook.md)

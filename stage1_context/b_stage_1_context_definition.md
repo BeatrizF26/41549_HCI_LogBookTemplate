@@ -108,6 +108,16 @@ Task: [This is the task]
 
 [Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]
 
+| **Strength** | **Weaknesses** | **Opportunities** | **Threats** |
+|--------------|----------------|-------------------|-------------|
+|Simple navigation and interface |Some visual flaws (showing the wrong current page for example) |Creating something like a chat between the instructor and the student. | Competing apps have better features (Tracking score, showing how prepared you are for the exam, etc) |
+|Large variety of studying material, including questions and answers|They offer more material then needed to get the driving license (This can lead to people wasting time with irrelevant things or getting bored too quickly) | Allow students to make the payments through the website |				|
+|				| Although it looks functional, it shows signals that it has been abandoned (It shows that there are no classes scheduled even though there are) | Allow students to request exams through the website | 			|
+|				| In the “Formação teórica”  tab, after you open a file, your only option is to close the window. If you want to open a file in the same directory, you have to go all the way from the starting point |
+|				| Although it is possible to contact an online instructor, you must fill a form with your email and, optionally, your phone number|
+
+
+
 ---
 
 # B.2. Users
