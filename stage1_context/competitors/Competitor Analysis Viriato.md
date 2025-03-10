@@ -95,4 +95,4 @@
 
 
 ## Online Reviews
-
+Apenas avaliações relativas à escola em si e não à plataforma usada.
