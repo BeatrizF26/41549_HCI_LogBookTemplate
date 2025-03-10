@@ -9,34 +9,49 @@
 
 # Personas
 
-## Persona: [Persona Name] 
+## Persona: Ricardo Fernandes
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name\|100](personas/persona1.jpeg)  |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona1_template.md) |
+| **Photo**        | ![Ricardo Fernandes](personas/Aluno.jpeg)  |
+| **Name**         | Ricardo Fernandes                               |
+| **Age**          | 18                                 |
+| **Occupation**   | Estudante                           |
+| **Location**     | Figueira da Foz, Portugal                               |
+| **Goals**        | Obter a carta de condução           |
+| **Pain Points**  | Inconveniência dos transportes públicos; Bom planeamento de aulas; Preocupação com pagamentos para com a escola de condução; Ansiedade para momentos de avaliação              |
+| **Motivation**   | "Quero ter mais liberdade para me deslocar sem depender de horários de autocarro. Ter carta de condução vai facilitar a minha vida e dar-me mais independência."                |
+| **Full Profile** | [📄 Read More](personas/Aluno.md) |
 
 ---
-## Persona: [Persona Name] 
+## Persona: João Marques
 ### Summary 
 | Attribute        | Details                                       |
 | ---------------- | --------------------------------------------- |
-| **Photo**        | ![Persona Name](path/to/photo.jpg)            |
-| **Name**         | [Persona Name]                                |
-| **Age**          | [Persona Age]                                 |
-| **Occupation**   | [Job Title or Role]                           |
-| **Location**     | [City, Country]                               |
-| **Goals**        | [Brief summary of their main goals]           |
-| **Pain Points**  | [Key frustrations or challenges]              |
-| **Motivation**   | [One-line motivation or quote]                |
-| **Full Profile** | [📄 Read More](personas/persona2_template.md) |
+| **Photo**        | ![João Marques](personas/Instrutor.jpeg)            |
+| **Name**         | João Marques                                |
+| **Age**          | 58                                 |
+| **Occupation**   | Instrutor de Condução                           |
+| **Location**     | Figueira da Foz, Portugal                               |
+| **Goals**        | Continuar a ensinar e ajudar os seus alunos a obterem a carta de condução           |
+| **Pain Points**  | Burocracia no processo de obtenção de carta; Gestão de horários; Falta de comunicação na escola              |
+| **Motivation**   | "Ensinar a conduzir é a minha paixão, pelo que quero ajudar os meus alunos a terem sucesso através de um contacto direto e transparente."                |
+| **Full Profile** | [📄 Read More](personas/Instrutor.md) |
+
+---
+## Persona: Gracinda Silva 
+### Summary 
+| Attribute        | Details                                       |
+| ---------------- | --------------------------------------------- |
+| **Photo**        | ![Gracinda Silva](personas/Secretaria.jpeg)            |
+| **Name**         | Gracinda Silva                                |
+| **Age**          | 53                                 |
+| **Occupation**   | Secretária da Escola de Condução                           |
+| **Location**     | Figueira da Foz, Portugal                               |
+| **Goals**        | Garantir organização nos processos administrativos da escola           |
+| **Pain Points**  | Excesso de papéis; Marcação de exames com o IMT; Falta de comunicação na escola;              |
+| **Motivation**   | "Gosto de poder auxiliar os alunos e resolver todos os seus problemas facilmente"                |
+| **Full Profile** | [📄 Read More](personas/Secretaria.md) |
 
 ---
 
@@ -45,17 +60,30 @@
 
 
 # Scenarios
+## Scenario 1: Ricardo's Weekend
+This weekend Ricardo came back from Coimbra earlier at 4 PM. He got home at around 4:30 PM and decided to **check his driving school schedule**. He realized he had 2 classes that day, a practical lesson at 7 PM and a theoretical class at 6 PM. He had **booked those classes** at the beginning of the week, however he had forgotten.
 
+He realized he couldn't get to his first class in time so he **messaged his driving instructor and the school's secretary** telling them he couldn't make it to the class and asked if they could change his practical lesson to later that day, at 7 PM after the theoretical class.
 
-## Scenario 1: Maria goes on a Museum Tour
+At the end of the day, Ricardo realized he did quite well in his theoretical class so he decided to **request a theoretical exam**, however he had not fully paid what he owns to the school so he had to **pay the remaining 500€**. After that he was able to request his exam.
 
-[Maria had always loved modern art, but she often found museum visits overwhelming—so many exhibits, so much information, and little guidance on where to start. Today, she was visiting a contemporary art museum that had recently introduced an **interactive guide**.  ]
+## Scenario 2: João's Practical Lesson
+João arrived at the driving school at 8:30 AM. Before heading to the car, he decides to **check the student list** to see which students are scheduled for the morning.
 
-[As she entered the museum, Maria received a notification on her phone, reminding her to launch the app. She opened it and was greeted with a personalized welcome screen. The system, aware of her general interests in **digital media and abstract art**, suggested a self-guided tour tailored to her preferences.  ]
+He notices that one of the students, Maria, is a beginner, so he takes a few minutes to **register his lesson plan**, ensuring it covers basic maneuvers.
 
-[Curious, Maria followed the suggested path. As she approached the first painting, the guide vibrated slightly—a prompt that additional content was available. Holding up the guide, she saw an **overlay** appear on the screen, revealing a time-lapse animation of the artist creating the piece. A small **audio clip** played, explaining the artist’s thought process and influences. Maria found this fascinating; it was as if the artwork was coming to life in front of her.  ]
+During the lesson, Maria struggles with clutch pedal. After the lesson, João gave Maria some feedback but also **wrote a review of Maria's progress** to track her improvement over time.
 
-[As she continued her tour, Maria **bookmarked** her favorite pieces, leaving notes about what she found intriguing. The system, recognizing her engagement, suggested another exhibit nearby featuring similar themes. Midway through her visit, she received a pop-up asking if she’d like a **short quiz** on the artworks she had explored, offering an interactive way to reflect on what she had learned.  ]
+Before heading to his next lesson, João **received a message from another student**, Ricardo, who asked if they could switch his scheduled session at 5 PM for one at 7 PM. João **opened the chat feature and messaged both Ricardo and the secretary** to arrange a new schedule.
+
+## Scenario 3: Gracinda's Day at the School
+Gracinda arrived at the driving school at 9 AM. The first thing she did was **check the list of students** scheduled for practical and theoretical lessons that day to ensure everything was organized.
+
+A new student, Bruno, walked in and said he wanted to enroll in driving lessons. Gracinda guided him through the process, collected his documents, and successfully **registered him as a studen**t in the system.
+
+As she continued with her morning tasks, Gracing **checked the school's payments** and realized a student, Sofia, had paid all she owed to the school so she proceeded to **send Sofia a message** reminding her that she was able to request a theoretical exam already.
+
+Later in the afternoon, João, messaged Gracinda asking if she could help reschedule Ricardo’s practical lesson. She **opened the school's schedule** and found an available slot at 7 PM, confirming the change with João and Ricardo.
 
 ---
 
