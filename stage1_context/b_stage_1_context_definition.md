@@ -14,9 +14,7 @@
 
 | **Competitor**    | **Description**                             | Information repository              |
 | ----------------- | ------------------------------------------- | ----------------------------------- |
-| [Amazon Shoes]    | [Online platform selling shoe laces]        | [[Competitor Analysis AmazonShoes]] |
-| [Fnac Atacadores] | [Smartphone app to buy and sell shoe laces] |                                     |
-| ...               |                                             |                                     |
+| Viriato - Escola de Condução    | Online platform to help driving school students        | |
 
 
 
@@ -47,14 +45,31 @@
 
 >	After the individual analysis by each expert, all results should be gathered in a consensus table. If an expert has not found any of the problems found by other experts, they should analyse it, at this point, and give it a severity.
 
-| **Issue**       | **Expert 1** | Expert 2 | Expert 3 | Recommendations                             |
-| --------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Something wrong | 3            | 1        | 0        | Something could be done to the button to... |
-| Another thing   | 4            | 3        | 4        | Other thing to recommend                    |
-| ...             |              |          |          |                                             |
+| **Issue**                                                      | Expert 1 | Expert 2 | Expert 3 | Recommendations                             |
+| -------------------------------------------------------------- | ------------ | -------- | -------- | ------------------------------------------- |
+| Homepage navbar doesn't match current page (shows as "Testes") ||2|| Fix selection problem                       |
+| UI for contacting instructor doesn't feel like a chat          ||3|| Change the form-like UI to a real-time chat |
+| "Mudar Senha" page indicator looks like a button               ||2|| Remove bold page indicator                  |
+| "Ver vídeo" button not working or opening new browser tabs     |4|4|| Show "No videos available" or remove page until videos are uploaded |
+| Website mostly white and colors don't go well together         |1|1|| Change CSS colors                                                            |
+| Useless "Formação Teórica" page with no files                  ||3|| Show "No documents available" or remove page until files are uploaded        |
+| "Formação Teórica" page includes "Material Didático", "Vídeo" and "Testes"'s contents ||1|| Remove "Material Didático", "Vídeos" and "Testes"'s pages                    |
+| "Formação Teórica"'s contents are presented in a out-dated style (Index of Files)     ||2|| Completely redo the UI for file presentation                                 |
+| "Mudar Senha" page in navbar                                                          ||1|| Change "Mudar Senha" from a page to a functionality in a "Profile"-like page |
+| Font size too smal difficults reading |2||| Change font or increase font size |
+
+Não entendi (Bia):
+| Caminho percorrido confuso | 2            |Corrigir e colocar de forma mais legível                |
+| Falta de especificação   | 3            | Informar o conteúdo do vídeo em vez de ter de percorrer um a um para encontrar o desejado               |
+| Navegar entre menus a meio do processo | 3            | Limitar o acesso a cada um dos menus e fazer apenas as ligações necessárias                |
+| Mesmo nome para áreas diferentes | 2            | Colocar um nome mais específico em cada área de modo a se saber o que se faz em cada uma delas 
+| Design confuso em relação ao que se pode aceder | 3            | Criar um menu que torne mais fácil perceber o que o utilizador tem de fazer para aceder ao que quer                |
+| Keyboard shortcuts não funcionam muito bem | 3            | Indicar melhor onde é que está o "tab"               |
 
 
 
+| Navbar por vezes pode desaparecer e tem de se reiniciar a plataforma | 4           | Impedir que isso aconteça ou então quando acontecer, aparecer uma mensagem de erro a indicar que não pode realizar a operação porque ia haver um erro                |
+| Pouca documentação de ajuda caso seja necessário | 2            | Colocar uma documentação onde possa ter dúvidas frequentes dos utilizadores da plataforma               |
 ---
 ### - Cognitive Walkthrough
 
