@@ -71,38 +71,66 @@ For this evaluation we used Jakob Nielsen's heuristics which can be found in [th
 
 #### Method
 [Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
+- *1st* -> Identify the main tasks, the ones without which the system can't work.
+- *2nd* -> Analyze the task and the steps required to do it.
 
 #### Task Selection and Task Analysis
 
 [Which tasks did you select and why. What are the subtasks entailed for each ]
 
-
 | Task                        | Subtasks                               |
 | --------------------------- | -------------------------------------- |
-| **1. Buyng a grammar book** | Search for available grammar books     |
-|                             | Identify a specific book from the list |
-|                             | Add the selected book to the cart      |
-|                             | Proceeed to checkout                   |
-
+| **1. Schedule a Class** | Click on the "Marcação Aula" button     |
+|                             | Choose a day from the available options on the calendar |
+|                             | Choose a time for the class     |
+|                             | Click on the button to submit the request                   |
+---
 
 | Task                          | Subtasks                                |
 | ----------------------------- | --------------------------------------- |
-| **1. Booking a train ticket** | Select departure and destination cities |
-|                               | Choose travel date and time             |
-|                               | Pick a seat (if applicable)             |
-|                               | Confirm booking and make payment        |
+| **2. Get summaries about a topic** | Click on the "Material Didático" section |
+|                               | Choose the document for the desired theme          |
+---
+
+| Task                        | Subtasks                               |
+| --------------------------- | -------------------------------------- |
+| **3. Ask a question to the instructor** | Click on the "Instrutor Online" button     |
+|                             | Fill out the form with informations such as email and phone number |
+|                             | Write the question you want to ask    |
+|                             | Click on the button "Enviar mensagem" to send the question to the instructor                   |
+
+---
 
 
 #### Results
 
-Task: [This is the task]
+Task: **1. Schedule a Class**
 
 | Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
 | ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
-| 1      | [Step 1 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 1]              |     |
-| 2      | [Step 2 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 2]              |     |
-| 3      | [Step 3 description]   | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestion 3]              |     |
-| ...    | [Further steps]        | [Yes/No]                                         |       | [Yes/No]                                                                                  |       | [Yes/No]                       | [Suggestions]               |     |
+| 1      | Click on "Marcação Aula" button   | No | There are two buttons with the same name but different funcionalities | Yes | --------       | Yes                       |  Change the names of the buttons to make it clearer what each one does|     |
+| 2      | Choose a day from the available options on the calendar   |  Yes  | --------------------      | Yes |--------        | Yes | ----------------------              |     |
+| 3      | Choose a time for the class   | Yes | -------------------- | Yes | --------       | Yes | ----------------------|     |
+| 4    | Click on the button to submit the request | Yes | -------------------- | Yes | -------- | Yes | ---------------------- |     |
+
+---
+Task: **2. Get summaries about a topic**
+
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
+| 1      | Click on the "Material Didático" section   | Yes | --------- | Yes | -------- | Yes | ----------------------- |     |
+| 2      | Choose the document for the desired theme   |  Yes  | ---------     | Yes |--------        | Yes | ----------------------              |     |
+
+---
+Task: **3. Ask a question to the instructor**
+
+| Step # | Task/Action to Perform | Will User Know What to do at this step? (Yes/No) | Notes | If the user does the right thing, will they know it is progressing towards goal? (Yes/No) | Notes | Is Action Successful? (Yes/No) | Suggestions for Improvement |     |
+| ------ | ---------------------- | ------------------------------------------------ | ----- | ----------------------------------------------------------------------------------------- | ----- | ------------------------------ | --------------------------- | --- |
+| 1      | Click on the "Instrutor Online" button   | Yes | --------- | Yes | --------       | Yes                       | ----------------------- |     |
+| 2      | Fill out the form with informations such as email and phone number   |  Yes  | --------- | Yes |-------- | Yes | ---------------------- |     |
+| 3      | Write the question you want to ask   | Yes | --------- | Yes | --------       | Yes | ----------------------|     |
+| 4    | Click on the button "Enviar mensagem" to send the question to the instructor | Yes | --------- | Yes | -------- | Yes | ---------------------- |     |
+
 
 ## B.1c. Overall Analysis
 

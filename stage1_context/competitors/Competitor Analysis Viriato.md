@@ -5,27 +5,27 @@
 - **Website/Product Page:** https://ecviriato.pt/
 - **Version/Release Date:** ---
 - **Platform(s) Supported:** Web
-- **Target Audience:** Todos os envolvidas no processo de obtenção da carta de condução, nomeadamente, alunos, instrutores e a própria escola. Esta análise foca-se maioritariamente no ponto de vista do aluno.
-
+- **Target Audience:** All parties involved in the process of obtaining a driver's license, such as studentes, instructors and the driving school itself. This analysis was primarily made from the student's point of view.
+  
 --- 
 ## Core Functionality 
 
-**Primary Purpose:** De modo a facilitar a modernização do processo de formação rodoviário, esta plataforma propõem-se a melhorar a experiência dos alunos, instrutores e funcionários de uma escola de condução.
+**Primary Purpose:** In order to facilitate the modernization of the driver training process, this platform aims to improve the experience of students, instructors and employees at a driving school.
 
 **Key Features:** 
-- ***Gestão de aulas:*** Os alunos podem marcar as suas próprias aulas.
+- ***Class Management:*** Students can schedule their own classes.
   
-- ***Disponibilização de materiais:*** Acesso a resumos teóricos sobre cada tópico lecionado, assim como vídeos.
+- ***Material Access:*** Access to theoretical summaries on each concept taught in classes, as well as videos.
   
-- ***Realização de testes:*** Área destinada à realização de testes de diversos temas abordados durante as aulas.
+- ***Theoretical Tests:*** Section dedicated to taking tests on multiple topics covered during the lessons. 
 
 **Unique Selling Points (USPs):**
-- ***Modernização:*** Permite que os alunos não precisem de se deslocar à escola para marcar as suas aulas e facilita o processo burocrático entre a escola e o próprio aluno.
+- ***Modernization:*** Allows students to schedule their own lessons without having to go to the driving school, simplifying the process between the school and the student.
 
 **Limitations/Weaknesses:**
-- ***Comunicação entre aluno e escola:*** Existe uma área para os alunos tirarem as suas dúvidas com os instrutores, mas não existe uma para o aluno comunicar com a secretaria da escola de condução.
+- ***Comunication between student and school:*** Studens have a specific area to ask their questions to their instructor, but there is no section for them to do the same with the school's administrative office.
   
-- ***Visualização de vídeos:*** Os vídeos não têm descrições claras sobre os temas que abordam, dificultando o processo de procura dos alunos para encontrarem o que desejam.
+- ***Video Visualization:*** The videos lack clear descriptions, preventing students from knowing the topics taught without opening them, making it difficult for them to search and find what they are looking for.
 
 ---
 
@@ -33,17 +33,17 @@
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div style="text-align: center;">
     <img src="HomePage.png" alt="HomePage_Website" height="333px">
-    <p style="text-align: center;">Imagem 01 - Homepage do Website</p>
+    <p style="text-align: center;">Image 01 - Website Homepage</p>
   </div>
 
   <div style="text-align: center;">
     <img src="Material.png" alt="Material_Didático_Página" height="333px">
-    <p style="text-align: center;">Imagem 02 - Página do Material Didático</p>
+    <p style="text-align: center;">Image 02 - Educational Material Page</p>
   </div>
 
   <div style="text-align: center;">
     <img src="Resumos_Teóricos.png" alt="Resumos_Teóricos" height="333px">
-    <p style="text-align: center;">Imagem 03 - Apresentação de Resumos Teóricos</p>
+    <p style="text-align: center;">Image 03 - Presentations of Theoretical Summaries</p>
   </div>
 </div>
 
@@ -52,17 +52,17 @@
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div style="text-align: center;">
     <img src="Vídeos.png" alt="Vídeos_Página" height="333px">
-    <p style="text-align: center;">Imagem 04 - Página com os Vídeos das Aulas</p>
+    <p style="text-align: center;">Image 04 - Page with the Lesson Videos</p>
   </div>
 
   <div style="text-align: center;">
     <img src="Formação.png" alt="Formação_Teórica_Página" height="333px">
-    <p style="text-align: center;">Imagem 05 - Página da Formação Teórica</p>
+    <p style="text-align: center;">Image 05 - Theoretical Training Page</p>
   </div>
 
   <div style="text-align: center;">
     <img src="Menu_Conteúdos.png" alt="Menu_Conteúdos_Página" height="333px">
-    <p style="text-align: center;">Imagem 06 - Menu que aparece quando se quer ver conteúdos da formação teórica</p>
+    <p style="text-align: center;">Image 06 - Menu that appears when accessing theoretical training content</p>
   </div>
 
 </div>
@@ -72,17 +72,17 @@
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div style="text-align: center;">
     <img src="Testes.png" alt="Testes_Página" height="333px">
-    <p style="text-align: center;">Imagem 07 - Página com Testes Temáticos</p>
+    <p style="text-align: center;">Image 07 - Page with Thematic Tests</p>
   </div>
 
   <div style="text-align: center;">
     <img src="Aulas_Marcadas.png" alt="Aulas_Marcadas_Página" height="333px">
-    <p style="text-align: center;">Imagem 08 - Página com as Aulas Marcadas</p>
+    <p style="text-align: center;">Image 08 - Page with Scheduled Lessons</p>
   </div>
 
   <div style="text-align: center;">
     <img src="Senha.png" alt="Senha" height="333px">
-    <p style="text-align: center;">Imagem 09 - Página para Mudar a Senha</p>
+    <p style="text-align: center;">Image 09 - Page to Change Password</p>
   </div>
 </div>
 
@@ -90,9 +90,9 @@
 
  <div style="text-align: center;">
     <img src="Chat.png" alt="Chat_Página" height="333px">
-    <p style="text-align: center;">Imagem 10 - Formulário para enviar questões ao instrutor</p>
+    <p style="text-align: center;">Image 10 - Form to send questions to the Instructor</p>
   </div>
 
 
 ## Online Reviews
-Apenas avaliações relativas à escola em si e não à plataforma usada.
+Only reviews about the driving school itself, not the platform used.
