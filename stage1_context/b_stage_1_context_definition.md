@@ -20,7 +20,7 @@
 
 
 ## B.1b. Detailed Competitor Analysis
->	As our main competitor, we chose "Viriato - Escola de Condução"'s website
+>	As our main competitor, we chose "Viriato - Escola de Condução"'s website.
 
 
 ### - Heuristic Evaluation
@@ -47,26 +47,24 @@ For this evaluation we used Jakob Nielsen's heuristics which can be found in [th
 
 > **Note:** The issues each expert found will be highlighted in **bold**
 
-| **Issue**                                                      | Expert 1 | Expert 2 | Expert 3 | Recommendations                             |
-| -------------------------------------------------------------- | ------------ | -------- | -------- | ------------------------------------------- |
-| Homepage navbar doesn't match current page (shows as "Testes") ||**2**|| Fix selection problem                       |
-| UI for contacting instructor doesn't feel like a chat          ||**3**|**1**| Change the form-like UI to a real-time chat |
-| "Mudar Senha" page indicator looks like a button               ||**2**|| Remove bold page indicator                  |
-| "Ver vídeo" button not working or opening new browser tabs     |**4**|**4**|**2**| Show "No videos available" or remove page until videos are uploaded |
-| Website mostly white and colors don't go well together         |**1**|**1**|| Change CSS colors                                                            |
-| Useless "Formação Teórica" page with no files                  ||**3**|| Show "No documents available" or remove page until files are uploaded        |
-| "Formação Teórica" page includes "Material Didático", "Vídeo" and "Testes"'s contents ||**1**|| Remove "Material Didático", "Vídeos" and "Testes"'s pages                    |
-| "Formação Teórica"'s contents are presented in a out-dated style (Index of Files)     |**2**|**2**|**1**| Completely redo the UI for file presentation                                 |
-| "Mudar Senha" page in navbar                                                          ||**1**|| Change "Mudar Senha" from a page to a functionality in a "Profile"-like page |
-| Font size too smal difficults reading |**2**|2|| Change font or increase font size |
-| "Marcação de Aula Teórica" button and page do different things |**2**|3|| Change names to better specify the functionality |
-| Video names don't specify video content |**3**|3|| Rename video files for better specification |
-| "Tab" shortcut doesn't correctly identify its selection |**3**|2|| Fix "Tab" shortcut identification |
-| Navbar disappears after iterating the whole page with the "Tab" shortcut |**4**|4|| Fix the issue |
-| Confusing switch between files menu |**3**|3|| Change icons or add labels |
-| Lack of documentation/help page |**2**|2|| Add a documentation/help page|
-
-Não entendi (Bia):
+| **Issue**                                                      | Expert 1 | Expert 2 | Expert 3 | Average | Recommendations                             |
+| -------------------------------------------------------------- | ------------ | -------- | -------- | -------- | ------------------------------------------- |
+| Homepage navbar doesn't match current page (shows as "Testes") |3|**2**|1|2| Fix selection problem                       |
+| UI for contacting instructor doesn't feel like a chat          |2|**3**|**1**|2| Change the form-like UI to a real-time chat |
+| "Mudar Senha" page indicator looks like a button               |2|**2**|1|2| Remove bold page indicator                  |
+| "Ver vídeo" button not working or opening new browser tabs     |**4**|**4**|**2**|3| Show "No videos available" or remove page until videos are uploaded |
+| Website mostly white and colors don't go well together         |**1**|**1**|1|1| Change CSS colors                                                            |
+| Useless "Formação Teórica" page with no files                  |2|**3**|2|2| Show "No documents available" or remove page until files are uploaded        |
+| "Formação Teórica" page includes "Material Didático", "Vídeo" and "Testes"'s contents |2|**1**|2|2| Remove "Material Didático", "Vídeos" and "Testes"'s pages                    |
+| "Formação Teórica"'s contents are presented in a out-dated style (Index of Files)     |**2**|**2**|**1**|2| Completely redo the UI for file presentation                                 |
+| "Mudar Senha" page in navbar                                                          |2|**1**|2|2| Change "Mudar Senha" from a page to a functionality in a "Profile"-like page |
+| Font size too smal difficults reading |**2**|2|2|2| Change font or increase font size |
+| "Marcação de Aula Teórica" button and page do different things |**2**|3|2|2| Change names to better specify the functionality |
+| Video names don't specify video content |**3**|3|2|3| Rename video files for better specification |
+| "Tab" shortcut doesn't correctly identify its selection |**3**|2|0|2| Fix "Tab" shortcut identification |
+| Navbar disappears after iterating the whole page with the "Tab" shortcut |**4**|4|3|4| Fix the issue |
+| Confusing switch between files menu |**3**|3|2|3| Change icons or add labels |
+| Lack of documentation/help page |**2**|2|3|2| Add a documentation/help page|
 
 ---
 ### - Cognitive Walkthrough
