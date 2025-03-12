@@ -18,9 +18,9 @@
 | **Age**          | 18                                 |
 | **Occupation**   | Estudante                           |
 | **Location**     | Figueira da Foz, Portugal                               |
-| **Goals**        | Obter a carta de condução           |
-| **Pain Points**  | Inconveniência dos transportes públicos; Bom planeamento de aulas; Preocupação com pagamentos para com a escola de condução; Ansiedade para momentos de avaliação              |
-| **Motivation**   | "Quero ter mais liberdade para me deslocar sem depender de horários de autocarro. Ter carta de condução vai facilitar a minha vida e dar-me mais independência."                |
+| **Goals**        | Obtain a driving license |
+| **Pain Points**  | Inconvenience of public transport; Need for good lesson planning; Concern about payments to the driving school; Anxiety during evaluation moments |
+| **Motivation**   |"I want more freedom to travel without depending on bus schedules. Getting a driving license will make my life easier and give me more independence."                |
 | **Full Profile** | [📄 Read More](personas/Aluno.md) |
 
 ---
@@ -31,11 +31,11 @@
 | **Photo**        | ![João Marques](personas/Instrutor.jpeg)            |
 | **Name**         | João Marques                                |
 | **Age**          | 58                                 |
-| **Occupation**   | Instrutor de Condução                           |
+| **Occupation**   | Instructor|
 | **Location**     | Figueira da Foz, Portugal                               |
-| **Goals**        | Continuar a ensinar e ajudar os seus alunos a obterem a carta de condução           |
-| **Pain Points**  | Burocracia no processo de obtenção de carta; Gestão de horários; Falta de comunicação na escola              |
-| **Motivation**   | "Ensinar a conduzir é a minha paixão, pelo que quero ajudar os meus alunos a terem sucesso através de um contacto direto e transparente."                |
+| **Goals**        | Continue teaching and helping students obtain their driving license|
+| **Pain Points**  | Bureaucracy in the driving license process; Schedule management; Lack of communication at the school              |
+| **Motivation**   | "Teaching how to drive is my passion, so I want to help my students succeed through direct and transparent contact."                |
 | **Full Profile** | [📄 Read More](personas/Instrutor.md) |
 
 ---
@@ -46,11 +46,11 @@
 | **Photo**        | ![Gracinda Silva](personas/Secretaria.jpeg)            |
 | **Name**         | Gracinda Silva                                |
 | **Age**          | 53                                 |
-| **Occupation**   | Secretária da Escola de Condução                           |
+| **Occupation**   | Driving School Secretary                          |
 | **Location**     | Figueira da Foz, Portugal                               |
-| **Goals**        | Garantir organização nos processos administrativos da escola           |
-| **Pain Points**  | Excesso de papéis; Marcação de exames com o IMT; Falta de comunicação na escola;              |
-| **Motivation**   | "Gosto de poder auxiliar os alunos e resolver todos os seus problemas facilmente"                |
+| **Goals**        | Ensure organization in the administrative processes of the school |
+| **Pain Points**  | Excessive paperwork; Exam scheduling with the IMT; Lack of communication at the school;|
+| **Motivation**   | "I enjoy being able to assist students and easily solve all their problems." |
 | **Full Profile** | [📄 Read More](personas/Secretaria.md) |
 
 ---

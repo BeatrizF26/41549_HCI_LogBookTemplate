@@ -6,7 +6,7 @@ Work carried out by:
 -->
 # *HCI Project Logbook*
 
-**Title of the project**: Sistema de gestão de entidades relacionadas ao ensino de condução
+**Title of the project**: Management System for Entities Related to Driving Education
 **Team:**
 - Student 1: Beatriz Francisco 118638 
 - Student 2; Pedro Marques 118895
@@ -17,20 +17,28 @@ Work carried out by:
  > 	This stage corresponds to week 1. Describe the overall rationale that leads to choosing the project idea
 
 <!-- For this stage you will need to read this:-->
-A escolha da nossa ideia surgiu de forma a facilitar todo o processo de gestão de entidades relacionadas ao ensino de condução, nomeadamente, escolas de condução, alunos e instrutores, com o objetivo de contribuir para uma maior interação entre alunos e instrutores. Além disso, outro aspeto que nos levou à escolha deste tema foi o facto de facilitar as tarefas diárias do instrutor, nomeadamente, a preparação e avaliação das aulas dos alunos e ter acesso à lista de alunos a que dá aulas.
+Our idea was chosen with the goal of simplifying and optimizing the management process between the entities involved in driver education, such as driving schools, students and instructors. The main objective is to improve the interaction between students and instructors, making communication more effective. Additionally, we aim to ease the daily tasks of instructors, such as preparing and evaluating lessons, as well as providing easy access to the list of students they teach.
 
-Assim, o nosso objetivo é desenvolver uma plataforma com um conjunto de funcionalidades restritas a cada entidade, ou seja, que podem variar entre marcar aulas e inscrever alunos, no caso de serem escolas de condução, e ter acesso a quantas aulas foram dadas, no caso de serem alunos.
-
+Our goal is to develop a platform that offers specific functionalities for each type of user. Driving schools will be able to perform tasks such as scheduling lessons and registering students, while students will have access to the record of lessons they have completed, allowing them to track their progress.
 
 # [B. Stage 1 - Context Definition](stage1_context/b_stage_1_context_definition.md)
 > 	This stage spans weeks 2 and 3. It entails identifying competitors, analyse the most representative using heuristic evaluation and cognitive walkthrough, and understand how users currently approach the problem and their expectations and needs.
 
+In this stage, our goal was to analyze competitors of our platform using different methods, such as *Heuristic Evalutation* and *Cognitive Walkthrough*. This allowed us to gain a deeper understanding of their strengths and weakness, which is crucial for designing a platform that stands out from anothers and ensures we have the most complete one.
 
+By performing these analyses, we were able to observe how users currently approach the problem the platform aims to solve. It also gave us insight into the challenges users face when interacting with these platforms, allowing us to understand their expectations and needs.
+
+Furthermore, this stage helped us assess the usability of existing platforms, pointing out areas that require improvements or should be added. Overall, the goal was to gather data that would guide our design process, ensuring our platform offers a better solution compared to what is currently available.
  
 # [C. Stage 2 - Requirement Analysis](stage2_requirements/c_stage_2_requirement_definition.md)
 >	This stage corresponds to weeks 3 and 4, running in parallel with Stage 1, in week 3. After having the context, the obtained information is gathered in Personas and scenarios are built describing the vision for the new solution. Finally, requirements are defined.
 <!-- Based on the context definition and the devised scenarios, specify the requirements -->
 
+After getting all the informations we need, we focused on gathering them, which involved creating *Personas* based on the insights collected during user interviews, ensuring that the platform corresponds to their need and expectations.
+
+Simultaneously, we built *Scenarios* that describe specific use cases for the platform. These scenarios illustrated how users, such as students, instructors and driving school employees, would interact with the platform in different situations. By doing so, we were able to map out a vision for the new solution and understand how the platform would function in real-world contexts.
+
+Based on the context and the scenarios, we defined the platform's *Requirements*. These requirements outlined the essential features and functionalities necessary for the platform to meet the need of its users. They will serve as a guide for the development of the platform, ensuring it will provide an effective solution.
 
 ---
 # [P1 - First Assignment Presentation](presentation_1/p1_first_assignment_presentation.md)

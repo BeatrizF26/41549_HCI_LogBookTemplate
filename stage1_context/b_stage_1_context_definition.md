@@ -70,13 +70,13 @@ For this evaluation we used Jakob Nielsen's heuristics which can be found in [th
 ### - Cognitive Walkthrough
 
 #### Method
-[Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
+>	[Briefly described  the method you used for the Cognitive Walkthrough analysis. ]
 - *1st* -> Identify the main tasks, the ones without which the system can't work.
 - *2nd* -> Analyze the task and the steps required to do it.
 
 #### Task Selection and Task Analysis
 
-[Which tasks did you select and why. What are the subtasks entailed for each ]
+>	[Which tasks did you select and why. What are the subtasks entailed for each ]
 
 | Task                        | Subtasks                               |
 | --------------------------- | -------------------------------------- |
@@ -134,7 +134,7 @@ Task: **3. Ask a question to the instructor**
 
 ## B.1c. Overall Analysis
 
-[Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]
+>	[Here, you should summarize the main findings for the competitor panorama, listing key points that are valuable to inform the design of your solution, and also make an HCI SWOT analysis for the main competitor, taking into consideration what you learned from the heuristic evaluatio, cognitive walkthrough, online reviews, user feedback, etc.]
 
 | **Strength** | **Weaknesses** | **Opportunities** | **Threats** |
 |--------------|----------------|-------------------|-------------|
@@ -154,7 +154,14 @@ Task: **3. Ask a question to the instructor**
 
 ## B.2a. Method
 
-[What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
+>	[What approach was followed to talk with users; what kind of users were considered. What was the goal of the interviews? What were the questions considered?]
+
+In our study, we focused on three key user types for the interviews: students, instructors and driving school employees.
+
+We began by prepared a guide with essential questions we wanted to ask. Our goal was to understand the driving school's working method, including whether they currently use a platform of this kind and, if not, their thoughts on adopting one.
+
+After establishing these general aspects, we moved on to more specific questions about the platform, examining the features available to each user type and how they interact with them.
+
 ## B.2b. Results
 
 >	This section tracks all informal user interviews, summarizing key insights and linking to detailed notes for each session. 
@@ -162,23 +169,23 @@ Task: **3. Ask a question to the instructor**
 ### Interview List 
 | Date       | Participant / Role | Key Insights                                                    | Link to Notes                |     |
 | ---------- | ------------------ | --------------------------------------------------------------- | ---------------------------- | --- |
-| 03-09-2000 | Bob / student      | Does most things on paper and would require a complete solution | [📄 Notes](interview-Bob.md) |     |
-| ...        |                    |                                                                 |                              |     |
+| 27-02-2025 | Anonymous / Student      | Consider important to implement more features for the practical part of driving lessons | [📄 Notes Student](interview-Student.md) |     |
+| 28-02-2025 | Anonymous / Instructor | Would like to access his lesson calendar directly |[📄 Notes Instructor](interview-Instructor.md) |     |
+| 28-02-2025 | Anonymous / Employee | Implement a payment functionality and a scheduling system where instructors can access their lesson calendar directly on the platform|[📄 Notes Employee](interview-Employee.md) |     |
 
 ### Common Themes & Patterns 
 
 - **Recurring Problems:** 
-	- Issue 1
-	- Issue 2
+	- Instructors cannot access their lesson schedules through the platform.
+	- Payments need to be manually recorded, which is time-consuming.
+
 - **Frequently Used Tools:** 
-	- Tool 1
-	- Tool 2
+	- Student registration and exame scheduling system.
+	- Lesson registration via QR Code.
+  
 - **Desired Features / Solutions:** 
-	- Feature 1
-	- Feature 2
-- --- 
-
-
+	- A shared calendar where instructors can view their scheduled lessons.
+	- An integrated payment system that updates student accounts automatically.
 
 ---
 [Back to main Logbook Page](../hci_logbook.md)

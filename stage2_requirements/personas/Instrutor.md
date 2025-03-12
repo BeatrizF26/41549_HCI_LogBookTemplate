@@ -1,27 +1,26 @@
 # ![Persona Name](Instrutor.jpeg)  
 **Name:** João Marques
 **Age:** 58
-**Occupation:** Instrutor de Condução
+**Occupation:** Instructor
 **Location:** Figueira da Foz, Portugal
 
 ## Background  
-O João nasceu e cresceu em Lisboa, mas há mais de 20 anos mudou-se para a Figueira da Foz, onde construiu a sua vida. João é casado e sempre foi apaixonado por automóveis e, há mais de 30 anos, decidiu tornar-se instrutor de condução. Atualmente, trabalha na Escola de Condução "ACADEMIA ACOSTA" e já ajudou centenas de alunos a obterem a carta de condução. Embora tenha muita experiência no ensino da condução, não se sente muito à vontade com tecnologia, no entanto está aberto para uma mudança na forma como organiza o seu trabalho.
+João was born and raised in Lisbon, but over 20 years ago, he moved to Figueira da Foz, where he built his life. João is married and has always had a passion for automobiles. Over 30 years ago, he decided to become a driving instructor. Currently, he works at the "ACADEMIA ACOSTA" Driving School and has helped hundreds of students obtain their driver's license. Although he has extensive experience in teaching driving, he is not very comfortable with technology; however, he is open to a change in how he organizes his work.
 
 
 ## Daily Life  
-O dia do João começa cedo, com aulas práticas de condução logo pela manhã. Passa grande parte do dia no carro com os alunos, ajudando-os a ganhar confiança ao volante. Entre aulas, aproveita para tomar café com colegas. À noite, gosta de passar tempo com a família e ver televisão.
+João's day starts early, with driving lessons right in the morning. He spends most of the day in the car with students, helping them build confidence behind the wheel. Between lessons, he takes the opportunity to have coffee with colleagues. In the evening, he enjoys spending time with his family and watching television.
 
 
 ## Goals & Needs  
-O João quer continuar a ensinar e ajudar os alunos a obterem a carta de condução, mas sente que a crescente digitalização dos processos administrativos pode ser um desafio.
-Gostaria de se adaptar melhor ao uso de ferramentas tecnológicas que facilitem o seu trabalho, mas sem perder o contacto próximo e direto com os alunos.
+João wants to continue teaching and helping students obtain their driver's licenses, but he feels that the increasing digitalization of administrative processes can be a challenge. He would like to adapt better to the use of technological tools that make his work easier, without losing the close, direct contact with his students.
 
 
 ## Pain Points & Challenges  
-- Há muita burocracia envolvida no processo de obtenção da carta de condução, desde a inscrição dos alunos até a marcação dos exames.
-- A gestão dos horários das aulas pode ser complicada, especialmente quando há remarcações ou mudanças de última hora.
-- O acompanhamento do progresso de cada aluno exige atenção e organização, pois cada um tem ritmos diferentes de aprendizagem.
-- A comunicação entre instrutores, secretaria e alunos nem sempre é fluida, o que pode gerar confusão em relação a prazos e marcações.
+- There is a lot of bureaucracy involved in the process of obtaining a driver's license, from student registration to exam scheduling.
+- Managing lesson schedules can be complicated, especially when there are last-minute reschedules or changes.
+- Tracking the progress of each student requires attention and organization, as each student learns at different paces.
+- Communication between instructors, the administrative staff, and students is not always smooth, which can lead to confusion regarding deadlines and bookings.
 
 ## Motivation  
-"Ensinar a conduzir é a minha paixão, pelo que quero ajudar os meus alunos a terem sucesso através de um contacto direto e transparente." - João
+"Teaching how to drive is my passion, so I want to help my students succeed through direct and transparent contact." - João
