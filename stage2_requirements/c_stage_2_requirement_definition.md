@@ -55,9 +55,19 @@
 
 ---
 
+# Hierarchical Task analysis
 
+## Marcar aula
 
+![image](Marcar_aula.drawio.png)
 
+## Registar plano de aula
+
+![image](registar_plano_plano.drawio.png)
+
+## Atribuir um aluno a um instrutor
+
+![image](Diagrama%20sem%20nome.drawio.png)
 
 # Scenarios
 ## Scenario 1: Ricardo's Weekend
