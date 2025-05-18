@@ -5,6 +5,131 @@
 
 ## D.1. Low Fidelity Prototype
 
+To begin developing our idea, we first created a Low Fidelity Prototype (LFP) of the app to evaluate how users would interact with it. This allowed us to gather initial feedback on both user navigation an the overall layout.
+
+We used Figma to design the prototype, as it enabled us to focus on user experience and better visualize how our concept would function in practice.
+
+The prototype included only the essential pages for the specific tasks we aimed to test. Once completed, we printed the design to facilitate user testing. Since our application is intended for smartphones, except the administrative section for secretaries, printing the prototype allowed for a more realistic and practical testing experience.
+
+### Prototype Side for the Student
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="Images_LFP/homeStudent.png" height="333px">
+    <p style="text-align: center;">Image 01 - Student Homepage</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="Images_LFP/calendarStudent.png" height="333px">
+    <p style="text-align: center;">Image 02 - Calendar Page</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="Images_LFP/popups.png" height="333px">
+    <p style="text-align: center;">Image 03 - Popups used during the test</p>
+  </div>
+</div>
+
+<div style="clear: both;"></div>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="Images_LFP/paymentStudent.png" height="333px">
+    <p style="text-align: center;">Image 04 - Payment Page</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="Images_LFP/paymentDetails.png" height="333px">
+    <p style="text-align: center;">Image 05 - Payment Details</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="Images_LFP/paymentConfirmation.png" height="333px">
+    <p style="text-align: center;">Image 06 - Payment Page Updated</p>
+  </div>
+</div>
+
+<div style="clear: both;"></div>
+
+---
+
+### Prototype Side for the Instructor
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="Images_LFP/homeInstructor.png" height="333px">
+    <p style="text-align: center;">Image 01 - Instructor Homepage</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="Images_LFP/studentsList.png" height="333px">
+    <p style="text-align: center;">Image 02 - Students List Page</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="Images_LFP/studentProfile.png" height="333px">
+    <p style="text-align: center;">Image 03 - Student Profile</p>
+  </div>
+</div>
+
+<div style="clear: both;"></div>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="Images_LFP/classTopics.png" height="333px">
+    <p style="text-align: center;">Image 04 - Topics of Class</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="Images_LFP/topicsSelected.png" height="333px">
+    <p style="text-align: center;">Image 05 - Selection of Topics</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="Images_LFP/topicsSaved.png" height="333px">
+    <p style="text-align: center;">Image 06 - Topics Saved</p>
+  </div>
+</div>
+
+<div style="clear: both;"></div>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="Images_LFP/chatPage.png" height="333px">
+    <p style="text-align: center;">Image 07 - Chat Page</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="Images_LFP/chat.png" height="333px">
+    <p style="text-align: center;">Image 08 - Chat</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="Images_LFP/chatResponse.png" height="333px">
+    <p style="text-align: center;">Image 09 - Answering a question</p>
+  </div>
+</div>
+
+<div style="clear: both;"></div>
+
+---
+
+### Prototype Side for the Secretary
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="Images_LFP/secretaryHome.png" height="333px">
+    <p style="text-align: center;">Image 01 - Secretary Homepage</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="Images_LFP/registration.png" height="333px">
+    <p style="text-align: center;">Image 02 - Register Area</p>
+  </div>
+
+  <div style="text-align: center;">
+    <img src="Images_LFP/registerConfirmation.png" height="333px">
+    <p style="text-align: center;">Image 03 - Confirmation</p>
+  </div>
+</div>
+
+<div style="clear: both;"></div>
+
+
 ## D.2. Prototype Evaluation
 
 ### D.2.1 Student Tasks
